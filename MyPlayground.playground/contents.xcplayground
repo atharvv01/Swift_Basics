@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='test'/>
+        <page name='structs'/>
+        <page name='enum'/>
+        <page name='classes'/>
+        <page name='access control'/>
+        <page name='arrays'/>
+        <page name='property observers'/>
+        <page name='lazy properties'/>
+        <page name='protocols '/>
+        <page name='equatable protocols'/>
+        <page name='hashable protocols'/>
+        <page name='closures'/>
+    </pages>
+</playground>
